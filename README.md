@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao perfil do Wesley Charles 😁
 
-- 🔥 Em busca de uma jornada profissional.
-
  <div>
    <a href="https://github.com/B00rges">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
