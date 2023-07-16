@@ -19,14 +19,14 @@
 <div> 
  <a href = "mailto:wesleycharlesb00rges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/B00rges/B00rges/blob/output/github-contribution-grid-snake.svg)
+
 
 
 </div>
 
 <!--
 **B00rges/B00rges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ ![Snake animation](https://github.com/B00rges/B00rges/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 ### Hi there 👋
 - 🔭 I’m currently working on ...
