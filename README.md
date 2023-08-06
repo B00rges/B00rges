@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Wesley Charles 😁
 
+- 🌱 Atualmente estou aprendendo...
+
  <div>
    <a href="https://github.com/B00rges">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
