@@ -29,7 +29,6 @@ I'm from Brazil 🇧🇷
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
-  <img src="https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=white" alt="Java"/>
 </div>
 <br>
 
