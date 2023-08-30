@@ -15,7 +15,7 @@ I'm from Brazil 🇧🇷
 
 - Technology enthusiast.
 
-- ### Front-end
+### Front-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS"/>
@@ -23,6 +23,13 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+</div>
+
+### Back-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=white" alt="Java"/>
 </div>
 
  <br>
