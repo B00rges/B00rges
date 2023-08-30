@@ -2,7 +2,7 @@
 
 ### My name is Wesley, nice to meet you!
 
-- 🌱 Atualmente estou aprendendo...
+- 🌱 I am currently learning...
 
  <div>
    <a href="https://github.com/B00rges">
