@@ -32,6 +32,14 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=white" alt="Java"/>
 </div>
 
+Base de dados
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+ <img src="https://img.shields.io/badge/firebase-47A248?logo=firebase&logoColor=white" alt="firebase"/>
+</div>
+
  <br>
  
   ## Contato!
