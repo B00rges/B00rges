@@ -31,6 +31,7 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=white" alt="Java"/>
 </div>
+<br>
 
 Base de dados
 
@@ -41,14 +42,6 @@ Base de dados
 </div>
 
  <br>
- 
-  ## Contato!
- 
-<div> 
- <a href = "mailto:wesleycharlesb00rges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
-
 
 </div>
 
