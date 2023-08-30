@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Wesley Charles 😁
+🌎 Hello World!
+
+## My name is Wesley, nice to meet you!
 
 - 🌱 Atualmente estou aprendendo...
 
