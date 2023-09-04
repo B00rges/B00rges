@@ -32,7 +32,7 @@ I'm from Brazil 🇧🇷
 </div>
 <br>
 
-Base de dados
+### Database
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
