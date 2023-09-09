@@ -30,10 +30,8 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
 </div>
-<br>
 
 ### Database
-
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
