@@ -1,6 +1,6 @@
- 🌎 Hello World!
+# 🌎 Hello World!
 
- My name is Wesley, nice to meet you!
+### My name is Wesley, nice to meet you!
 
 - 🌱 I am currently learning...
 
@@ -15,7 +15,7 @@ I'm from Brazil 🇧🇷
 
 - Technology enthusiast.
 
- Front-end
+### Front-end
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS"/>
@@ -24,14 +24,18 @@ I'm from Brazil 🇧🇷
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
 </div>
+ 
+ <br>
 
- Back-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;>
+### Back-end
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
 </div>
 
- Database
+ <br>
+ 
+### Database
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
