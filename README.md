@@ -1,6 +1,6 @@
  🌎 Hello World!
 
->### My name is Wesley, nice to meet you!
+### _My name is Wesley, nice to meet you!_
 
 - 🌱 I am currently learning...
 
