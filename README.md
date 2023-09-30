@@ -46,6 +46,13 @@
 
 </div>
 
+
+<div align="center">
+  <a href="#">
+  <img  src="https://github.com/B00rges/B00rges/blob/main/.github/workflows/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--
 **B00rges/B00rges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ![Snake animation](https://github.com/B00rges/B00rges/blob/output/github-contribution-grid-snake.svg)
