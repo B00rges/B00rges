@@ -1,51 +1,36 @@
-# 🌎 Hello World!
+### _My name is Wesley, nice to meet you!_ 
 
-### _My name is Wesley, nice to meet you!_
+![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
 
-- 🌱 I am currently learning...
-
- <div>
-   <a href="https://github.com/B00rges">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00rges&layout=compact&langs_count=6&theme=gruvbox"/>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00rges&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
 #### I'm from Brazil 🇧🇷
 
 - Technology enthusiast.
 
-### Front-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
-</div>
+## Tech Stack & Tools
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
+  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
+ <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" title="Firebase" alt="Firebase Logo" width="64"/> &ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
+</p>
  
  <br>
 
-### Back-end
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white" alt="Typescript"/>
 </div>
-
- <br>
- 
-### Database
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
- <img src="https://img.shields.io/badge/Firebase-47A248?logo=Firebase&logoColor=white" alt="Firebase"/>
-</div>
-
- <br>
-
-</div>
-
 
 <div align="center">
   <a href="#">
@@ -53,17 +38,16 @@
        alt="snake" /></a>
 </div>
 
-<!--
-**B00rges/B00rges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- ![Snake animation](https://github.com/B00rges/B00rges/blob/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
+<h2 align='center'>Contact me</h2>
+
+<div align='center'>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/portfolioSbardelotto)
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+
