@@ -1,5 +1,3 @@
-### _My name is Wesley, nice to meet you!_ 
-
 ![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
@@ -10,9 +8,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00rges&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
+<br>
+
+### _My name is Wesley, nice to meet you!_ 
+
 #### I'm from Brazil 🇧🇷
 
 - Technology enthusiast.
+
+<br>
 
 ## Tech Stack & Tools
 <p align="center">
