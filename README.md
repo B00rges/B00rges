@@ -32,11 +32,6 @@
 
 </div>
 
-<div align="center">
-  <a href="#">
-  <img  src="https://github.com/B00rges/B00rges/blob/main/.github/workflows/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
 <h2 align='center'>Contact me</h2>
