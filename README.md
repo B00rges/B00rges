@@ -10,7 +10,11 @@
 
 <br>
 
-### _My name is Wesley, nice to meet you!_ 
+<div>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
+</div>
+
+### _My name is Wesley, nice to meet you!_  
 
 #### I'm from Brazil 🇧🇷
 
