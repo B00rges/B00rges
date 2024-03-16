@@ -1,5 +1,5 @@
 ![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cacaca&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wesley+Charles;SystemS+Analysis+and+Development+Student%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cacaca&size=35&center=true&vCenter=true&width=1000&lines=SystemS+Analysis+and+Development+Student%21)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
 
