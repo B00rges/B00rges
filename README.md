@@ -1,15 +1,17 @@
-![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cacaca&size=35&center=true&vCenter=true&width=1000&lines=SystemS+Analysis+and+Development+Student%21)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
+<h1 align="center">
+ 👋  Olá, eu sou o Wesley, um desenvolvedor full stack apaixonado pelo que faz! 
+</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+<div align="center">
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00rges&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-charles-522b6a264/)
 </div>
 
-<br>
+
+
+# 👨🏻‍💻  About Me
+
+* ...
 
 
 #### I'm from Brazil 🇧🇷
@@ -18,7 +20,7 @@
 
 <br>
 
-## Tech Stack & Tools
+## Tech Stack & Tools ⚙️
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
@@ -37,16 +39,16 @@
 </div>
 
 
-![lineBar](https://github.com/B00rges/B00rges/assets/123204710/3730104a-b2e8-4a2f-a1ca-9fca80d8e8b7)
-<h2 align='center'>Contact me</h2>
-
-<div align='center'>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-charles-522b6a264/)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](...)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00rges&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+<br>
+
+
+
+
 
 
