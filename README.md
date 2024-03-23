@@ -5,14 +5,15 @@
 <div align="center">
   
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-charles-522b6a264/)
+ [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/in/wesley-charles-522b6a264/)
 </div>
 
 
 
 # 👨🏻‍💻  About Me
 
-* ...
-
+* 🎯 estou mergulhado no mundo da análise e desenvolvimento de sistemas como estudante dedicado.
+* 🚀 Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (NodeJs, React) para desenvolver em ambas as frentes.
 
 #### I'm from Brazil 🇧🇷
 
