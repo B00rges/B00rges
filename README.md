@@ -20,11 +20,11 @@
 
 <br>
 
+<h1 align="center">
+  Tech Stack & Tools ⚙️  
+</h1>
 
 <h1 align="center">
- Tech Stack & Tools ⚙️  
- 
-
  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
