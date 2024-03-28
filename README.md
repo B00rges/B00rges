@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋  Olá, eu sou o Wesley, um desenvolvedor full stack apaixonado pelo que faz! 
+ 👋  Olá, eu sou o Wesley, um desenvolvedor apaixonado pelo que faz! 
 </h1>
 
 <div align="center">
