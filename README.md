@@ -24,7 +24,7 @@
 <h1 align="center">
  Tech Stack & Tools ⚙️  
  
- ![lineBar (1)](https://github.com/B00rges/B00rges/assets/123204710/4658e3e4-f3a3-44e3-8754-b0cc05984b3e)
+
  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
