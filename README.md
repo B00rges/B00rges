@@ -9,8 +9,6 @@
  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </div>
 
-
-
 # 👨🏻‍💻  About Me
 
 * 🎯 estou mergulhado no mundo da análise e desenvolvimento de sistemas como estudante dedicado.
@@ -23,6 +21,7 @@
 <br>
 
 ## Tech Stack & Tools ⚙️
+![lineBar (1)](https://github.com/B00rges/B00rges/assets/123204710/4658e3e4-f3a3-44e3-8754-b0cc05984b3e)
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
@@ -52,8 +51,6 @@
 </div>
 
 <br>
-
-
 
 
 
