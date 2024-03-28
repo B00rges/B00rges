@@ -20,13 +20,12 @@
 
 <br>
 
-<h1 align="center">
-  Tech Stack & Tools ⚙️  
-</h1>
 
-![lineBar (1)](https://github.com/B00rges/B00rges/assets/123204710/4658e3e4-f3a3-44e3-8754-b0cc05984b3e)
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+<h1 align="center">
+ Tech Stack & Tools ⚙️  
+ 
+ ![lineBar (1)](https://github.com/B00rges/B00rges/assets/123204710/4658e3e4-f3a3-44e3-8754-b0cc05984b3e)
+ <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
@@ -35,16 +34,15 @@
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" title="mysql" alt="mysql Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
+  <br>
+  <br>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
-</p>
-<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="sass CSS" alt="sass CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-</p>
- 
- <br>
+  
+ </h1>
 
-</div>
+
 
 
 <div align="center">  
