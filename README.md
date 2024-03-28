@@ -34,12 +34,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" title="mysql" alt="mysql Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
-  
-  <div lign="center">
-   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
-   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="sass CSS" alt="sass CSS Logo" width="78" /> &emsp;
-   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  </div>
+  <br>
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="sass CSS" alt="sass CSS Logo" width="78" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   
  </h1>
 
