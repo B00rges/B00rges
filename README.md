@@ -7,12 +7,15 @@
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-charles-522b6a264/)
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+ 
 </div>
 
 # 👨🏻‍💻  About Me
 
 * 🎯 estou mergulhado no mundo da análise e desenvolvimento de sistemas como estudante dedicado.
 * 🚀 Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (NodeJs, React) para desenvolver em ambas as frentes.
+* 🐧 Interessado em explorar o mundo Linux como próximo passo de aprendizado.
+  
 
 #### I'm from Brazil 🇧🇷
 
@@ -42,9 +45,6 @@
   
  </h1>
 
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=B00rges&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
@@ -52,7 +52,5 @@
 </div>
 
 <br>
-
-
 
 
