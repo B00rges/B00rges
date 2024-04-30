@@ -33,9 +33,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase Logo" width="64"/> &ensp;
   <img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" title="mysql" alt="mysql" width="64"/> &ensp;
+  <br>
+  <br>
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
-  <br>
-  <br>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="sass CSS" alt="sass CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
