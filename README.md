@@ -1,6 +1,6 @@
 <div align="center">
 
-![DevOps Automation Banner](https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Building%20skills%20in%20Linux%20Docker%20and%20Cloud&descAlignY=55&descAlign=50)
+![DevOps Banner](https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Building%20skills%20in%20Linux%20Docker%20and%20Cloud&descAlignY=55&descAlign=50)
 
 [![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/B00rges)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/B00rges)
@@ -55,7 +55,6 @@ Olá! 👋 Sou Wesley Charles, formado em Análise e Desenvolvimento de Sistemas
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 </details>
 
@@ -116,7 +115,6 @@ Olá! 👋 Sou Wesley Charles, formado em Análise e Desenvolvimento de Sistemas
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
