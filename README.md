@@ -36,7 +36,7 @@ Olá! 👋 Sou Wesley Charles, formado em Análise e Desenvolvimento de Sistemas
 
 ---
 
-## ⚡ Tech Stack & Ferramentas
+## ⚡ Tech Stack & Ferramentas, 📚 Tecnologias em aprendizado
 
 <details open>
 <summary><b>☁️ Cloud & Platforms</b></summary>
